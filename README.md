@@ -1,13 +1,17 @@
 
+## install
 
+```
+flutter_simple_record_and_player: ^1.0.0+0.1
+```
+
+## config iOS Info.plist
 iOS 
 Make sure you add the following key to Info.plist for iOS
 
 ```
 <key>NSMicrophoneUsageDescription</key>
 <string>xxxxxx</string>
-
-
 
 ```
 
@@ -22,14 +26,14 @@ Make sure you add the following key to Info.plist for iOS
 ### 录音
 ```
 try {
-                    String path='/cached/demo.mp3';
-                    _recordAndPlayer.startRecord(path, (error) {
+    String path='/cached/demo.mp3';
+    _recordAndPlayer.startRecord(path, (error) {
                       print(error);
-                    });
-                  } catch (e) {
-                    print(e);
-                  }
-                },
+         });
+      } catch (e) {
+                  print(e);
+              }
+        },
 ```
 ### 结束录音
 
