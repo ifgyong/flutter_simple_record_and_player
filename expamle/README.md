@@ -1,18 +1,4 @@
-
-
-iOS 
-Make sure you add the following key to Info.plist for iOS
-
-```
-<key>NSMicrophoneUsageDescription</key>
-<string>xxxxxx</string>
-
-
-
-```
-
-## Example
-
+# expamle
 
 ```
   SimpleSoundRecordAndPlayer _recordAndPlayer = new SimpleSoundRecordAndPlayer();
