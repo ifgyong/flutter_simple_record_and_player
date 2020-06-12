@@ -1,3 +1,5 @@
+[github Example code](https://github.com/ifgyong/flutter_simple_record_and_player/blob/master/expamle/lib/main.dart)
+
 ```
 
 

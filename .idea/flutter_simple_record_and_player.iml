@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/audioplayer/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/audioplayer/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/audioplayer/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider_linux/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider_linux/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider_linux/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider_macos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider_macos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider_macos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider_macos/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider_macos/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/path_provider_macos/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/permission_handler/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/permission_handler/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/permission_handler/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/permission_handler/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/permission_handler/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/permission_handler/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/record_mp3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/record_mp3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/record_mp3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/record_mp3/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/record_mp3/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expamle/ios/.symlinks/plugins/record_mp3/example/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+  </component>
+</module>

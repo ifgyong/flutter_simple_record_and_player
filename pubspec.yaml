@@ -1,7 +1,7 @@
 name: flutter_simple_record_and_player
 description: It is very simple to use recording and playback voice, supports Android and Apple, and has its own permission acquisition control
 
-version: 1.0.0+0.1
+version: 1.0.0+0.2
 homepage: http://www.fgyong.cn
 repository: https://github.com/ifgyong/flutter_easyHub
 environment:

@@ -12,7 +12,7 @@ Make sure you add the following key to Info.plist for iOS
 ```
 
 ## Example
-
+[github Example code](https://github.com/ifgyong/flutter_simple_record_and_player/blob/master/expamle/lib/main.dart)
 
 ```
   SimpleSoundRecordAndPlayer _recordAndPlayer = new SimpleSoundRecordAndPlayer();
